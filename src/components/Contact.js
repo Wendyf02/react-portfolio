@@ -12,7 +12,7 @@ class Contact extends  Component {
     return (
         <div>
       <h1>
-          <Fade bottom cascade>contact</Fade>
+          <Fade bottom cascade>Contact</Fade>
       </h1>
 
     <Fade bottom> 
@@ -30,7 +30,7 @@ class Contact extends  Component {
       </div>
 
      </Fade>
-       <span  clasName='Footer'>Alternate website design<a href="https://github.com/Wendyf02"> Wendy's original website</a></span>
+       <span  className='Footer'>Alternate website design<a href="https://github.com/Wendyf02"> Wendy's original website</a></span>
         </div>
     );
   }
