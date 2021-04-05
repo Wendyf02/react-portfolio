@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
 import Fade from 'react-reveal/Fade';
 
-class Portfolio extends Components {
+class Project extends Component {
 
    state = { }
 
- render() {
+   render() {
      return ( 
-    <Fade bottom>
-        <div className='Porfolio'>
+      <Fade bottom>
+         <div className='Project'>
             <a href={this.props.url}>
                <img src={this.props.imageSrc} alt={this.props.title}></img>
             </a>
@@ -16,12 +16,12 @@ class Portfolio extends Components {
 
                <span>{this.props.service}</span>
 
-        </div>
+         </div>
 
-    </Fade>
+      </Fade>
     );
 
    }
 }
 
-export default Portfolio;
+export default Project;
