@@ -21,7 +21,9 @@ return (
                {data.headerTagline[0]}<br></br>{data.headerTagline[1]}<br></br>
                 {data.headerTagline[2]}
 
-                    <br></br>
+                  {data.showHeaderImage ? <img src={data.header.Image} alt='header image'></img> : null }
+                  
+                  <br></br>
                  <button><a href={`mailto:${data.contactEmail}`} rel="noopener noreferrer" >Contact</a></button>
                  <button><a href={`${data.resume}`} rel="noopener noreferrer" >Resume</a></button>  
             </p>
