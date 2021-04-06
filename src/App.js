@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
 
 import Navbar from './components/Navbar'
@@ -6,7 +6,7 @@ import Header from './components/Header';
 import About from  './components/About';
 import Portfolio from './components/Project'
 import Contact from './components/Contact'
-import Footer from './components/Footer';
+// import Footer from './components/Footer';
 
 
 function App() {
@@ -18,7 +18,7 @@ function App() {
         <Header></Header>
       </div>
 
-      <div classNmae="About">
+      <div className="About">
         <About></About>
       </div>
 
@@ -29,7 +29,7 @@ function App() {
        <Contact></Contact>
       </div>
       <div className="Footer">
-       <Footer></Footer>
+       {/* <Footer></Footer> */}
       </div>
      
     </div>
