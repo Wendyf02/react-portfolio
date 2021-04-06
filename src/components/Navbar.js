@@ -43,7 +43,7 @@ render() {
                 offset={-70}
                 duration={500}
                 onClick={this.scrollToTop}
-            >Portfolio</Link></li>
+            >Work</Link></li>
 
             <li><Link     
                 className='link'

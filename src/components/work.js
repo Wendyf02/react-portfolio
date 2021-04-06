@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Portfolio from './Project';
+import Project from './Project';
 import Fade from 'react-reveal/Fade';
 import data from '../data';
 
