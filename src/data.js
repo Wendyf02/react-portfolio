@@ -60,11 +60,11 @@ export default
         
         {
             id: 6,
-            title: 'Team-Profile-Generator',
-            service: 'This app is used to write & save and delete notes',
-            imageSRC: './image/teambrowser.png',
+            title: 'Budget Tracker',
+            service: 'This app is used to track your budget',
+            imageSRC: './image/chart1.png',
             url: 'https://github.com/Wendyf02/Team-Profile-Generator'
-        },
+        }
 
 
 
@@ -90,15 +90,9 @@ export default
     name: 'Email',
     url: 'camomila444@gmail.com'
 
-  },
+  }
 
 
-
-
-
-
-
-
-    ]
+]
     
 }

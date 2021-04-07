@@ -4,7 +4,7 @@ import './App.css';
 import Navbar from './components/Navbar'
 import Header from './components/Header';
 import About from  './components/About';
-import Portfolio from './components/Project'
+import Work from './components/work'
 import Contact from './components/Contact'
 // import Footer from './components/Footer';
 
@@ -23,7 +23,7 @@ function App() {
       </div>
 
       <div className="Portfolio">
-        <Portfolio></Portfolio>
+        <Work></Work>
       </div>
       <div className="Contact">
        <Contact></Contact>

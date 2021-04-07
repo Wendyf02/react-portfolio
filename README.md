@@ -21,12 +21,12 @@
   
 
  ## Usage     
- Navbar for header in all pages-Navbar is Responsibe.       
- A scroll Portfolio   
+ Responsibe Navbar          
+ A scroll Portfolio       
  -Home-Header 
- -About Me      
- -Portfolio   
- -Contact   
+ -About Me         
+ -Work-Portfolio           
+ -Contact       
    
 
  ## Test
