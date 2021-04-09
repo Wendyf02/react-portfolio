@@ -13,7 +13,7 @@ export default
     contactEmail: 'camomila444@gmail.com',
     resume: './image/resume.pdf',
     abouttext: 'I could not be happier on where my life journey has taken me.I am well organized & people person who is focus  excellent client support, program development, and complex problem solving. Passionate about helping others. Cultivate positive morale by coaching and encouraging others.',
-    aboutImage: './image/selfimage.png',
+    aboutImage: './selfimage.png',
     ShowAboutImage:true,
     
 
@@ -22,7 +22,7 @@ export default
             id: 1,
             title: 'Code Quiz',
             service: 'A game against time',
-            imageSRC: './image/codequiz.png',
+            imageSRC: './CodeQuizcard.png',
             url: 'https://wendyf02.github.io/Code-Quiz/'
         },
 
@@ -30,7 +30,7 @@ export default
             id: 2,
             title: 'Work Day Schedule',
             service: 'A simple App that allows user to save events in a day',
-            imageSRC: './image/work-day schudele.png',
+            imageSRC: './worddaycard.png',
             url: 'https://wendyf02.github.io/Work-Day-Schedule/'
         },
         
@@ -38,7 +38,7 @@ export default
             id: 3,
             title: 'Project-Give-Back',
             service: 'An App that provide user information on the impact fast fashion and effect on environment',
-            imageSRC: './image/project-give-back.png',
+            imageSRC: './projectgivebackcard.png',
             url: 'https://tasoko.github.io/project-give-back/'
         },
         
@@ -46,7 +46,7 @@ export default
             id: 4,
             title: 'Der-Gut-Good Burger',
             service: 'This App let user add burger to eat-devour',
-            imageSRC: './image/burger1.png',
+            imageSRC: './burgervard.png',
             url: 'https://quiet-scrubland-98672.herokuapp.com/'
         },
         
@@ -54,7 +54,7 @@ export default
             id: 5,
             title: 'Note Taker',
             service: 'This app is used to write & save and delete notes',
-            imageSRC: './image/herokuapp1.jpg',
+            imageSRC: './notetakercard.jpg',
             url: 'https://hidden-ravine-43471.herokuapp.com/'
         },
         
@@ -62,7 +62,7 @@ export default
             id: 6,
             title: 'Budget Tracker',
             service: 'This app is used to track your budget',
-            imageSRC: './image/chart1.png',
+            imageSRC: './budgettrackercard.png',
             url: 'https://github.com/Wendyf02/Team-Profile-Generator'
         }
 
